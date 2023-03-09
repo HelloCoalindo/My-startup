@@ -1,0 +1,4 @@
+Hello nama saya Fivin dari Mojokerto
+Ini rencana saya :
+- Membuat Website untuk masing-masing produk
+- Membuat e-mail penawaran
